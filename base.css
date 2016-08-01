@@ -54,10 +54,8 @@ li a:hover {
     height: 80%;
     background-color: black;
     font-family: Verdana;
-    display: block;
     color: white;
     text-align: center;
-    text-decoration: none;
 }
 #welcome-pix {
     overflow: hidden;
